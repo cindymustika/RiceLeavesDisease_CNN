@@ -1,6 +1,6 @@
 # Rice Leaves Disease
 
-# 📄 Dokumentasi Proyek: Deteksi Penyakit Tanaman Padi Menggunakan CNN
+# 📄 Deteksi Penyakit Tanaman Padi Menggunakan CNN
 
 ## 1. Latar Belakang
 Padi merupakan komoditas utama bagi ketahanan pangan nasional dan sumber penghidupan bagi jutaan petani. Namun, serangan penyakit seperti **Blast**, **Brown Spot**, **Bacterial Blight**, dan **Tungro** dapat menurunkan produktivitas secara drastis. Di era digital, dibutuhkan solusi cerdas berbasis teknologi untuk membantu petani melakukan deteksi dini terhadap penyakit tanaman.
