@@ -3,7 +3,7 @@
 # 📄 Dokumentasi Proyek: Deteksi Penyakit Tanaman Padi Menggunakan CNN
 
 ## 1. Latar Belakang
-Padi merupakan komoditas utama bagi ketahanan pangan nasional dan sumber penghidupan bagi jutaan petani, termasuk di Kabupaten Pringsewu, Lampung. Namun, serangan penyakit seperti **Blast**, **Brown Spot**, **Bacterial Blight**, dan **Tungro** dapat menurunkan produktivitas secara drastis. Di era digital, dibutuhkan solusi cerdas berbasis teknologi untuk membantu petani melakukan deteksi dini terhadap penyakit tanaman.
+Padi merupakan komoditas utama bagi ketahanan pangan nasional dan sumber penghidupan bagi jutaan petani. Namun, serangan penyakit seperti **Blast**, **Brown Spot**, **Bacterial Blight**, dan **Tungro** dapat menurunkan produktivitas secara drastis. Di era digital, dibutuhkan solusi cerdas berbasis teknologi untuk membantu petani melakukan deteksi dini terhadap penyakit tanaman.
 
 Teknologi **Convolutional Neural Network (CNN)** sebagai bagian dari kecerdasan buatan (AI) terbukti efektif dalam klasifikasi gambar dan kini dimanfaatkan dalam pertanian untuk mengidentifikasi penyakit tanaman padi secara otomatis dan akurat.
 
@@ -11,8 +11,7 @@ Teknologi **Convolutional Neural Network (CNN)** sebagai bagian dari kecerdasan 
 - Membangun sistem deteksi penyakit tanaman padi berbasis **CNN**.
 - Mengklasifikasikan daun padi ke dalam 4 kategori penyakit: **Blast**, **Brown Spot**, **Bacterial Blight**, dan **Tungro**.
 - Mendukung petani dalam pengambilan keputusan cepat untuk pengendalian penyakit.
-- Mendorong produktivitas pertanian yang berkelanjutan dan inklusif di Pringsewu.
-
+  
 ## 3. Dataset
 Dataset yang digunakan terdiri dari **5923** gambar daun padi yang telah dikategorikan ke dalam 4 kelas:
 - **Bacterial Blight**
@@ -52,10 +51,4 @@ Model ini cukup andal untuk klasifikasi penyakit tanaman padi dalam praktik nyat
 Proyek ini selaras dengan **Tujuan Pembangunan Berkelanjutan (SDGs) nomor 2: Mengakhiri Kelaparan**, karena:
 - Membantu petani meningkatkan produktivitas.
 - Mencegah kerugian hasil panen melalui deteksi dini penyakit.
-- Mendukung pertanian cerdas dan efisien di daerah seperti Pringsewu.
 
-## 7. Dampak Ekonomi dan Keberlanjutan
-Penerapan sistem ini berpotensi:
-- Mengurangi biaya produksi akibat penyakit yang terlambat terdeteksi.
-- Meningkatkan hasil panen dan pendapatan petani.
-- Mendorong transformasi digital di sektor pertanian lokal untuk ekonomi yang inklusif dan berkelanjutan.
